@@ -6,3 +6,5 @@ main = do
   putStrLn "usrs Sevi Nurafni, Hirofumi Notsu"
   putStrLn "keys Welle, Wind, Sturmquelle, Wetterdaten"
   putStrLn "meto SWE, FD, FEM, ML"
+
+-- url https://onecompiler.com/haskell/3yhks72uq
