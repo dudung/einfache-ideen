@@ -1,0 +1,10 @@
+main :: IO ()
+
+main = do
+  putStrLn "name Grüne Apotheke"
+  putStrLn "date 28-sep-2022"
+  putStrLn "usrs Ilma Nugrahani"
+  putStrLn "keys Grüne, Apotheke"
+  putStrLn "meto ABM, SD"
+
+-- url https://onecompiler.com/haskell/3yjv29x35
